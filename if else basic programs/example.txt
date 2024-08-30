@@ -1,0 +1,21 @@
+Chatbots are Artificially-Intelligent Softwares showing 
+responsiveness towards the existing queries. Those queries 
+may either be of a student or an employee, depending 
+upon the requirements in real-times. But this project will 
+promisingly let the beginners prepare a software whose 
+database is cloud-based and let a student get responses for 
+the queries he/she may enter. Are you curious to know 
+how this project will be identifying the answers? With 
+NLP i.e Natural Language Processing and ML i.e Machine 
+Learning algorithms, a list of appropriate responses will be 
+entered in those chatbot's which will answer the questions 
+(these are the input patterns) of a student in a goal-oriented 
+manner. This is one of the reasons why the project is 
+popular and preferred by many cloud-computing aspirants. 
+Besides, the thing which can’t be avoided in this project is 
+connectivity with a website you are using. After the 
+website is linked with the chatbot, you will be able to 
+analyze how many users have started talking with the 
+chatbot and to what extent the project is accurately and 
+precisely answering to the variety of visitors always 
+waiting for someone to help them fulfill their requirements . How to proceed this question for a project demonstration 
